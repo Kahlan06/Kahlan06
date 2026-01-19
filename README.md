@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**Kahlan06/Kahlan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kahlan and I am currently an undergraduate Computer Science major!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I've used: C++, Java, some Haskell
+Platforms I've used: VS Community, VS Code, Intellij IDEA, linux terminal Polaris, Roblox Studio
+Skills: Confidence in C++ and Java, troubleshooting, creativity, dedication, and collaboration.
+Experience: 
+      Professional: Currently a member of Reslife at my college.
+      Other: Have worked on smaller, class-related projects in groups before. Have also worked with people in Roblox Studio.
+
+
+Languages I am currently learning: C
+Other things I am currently learning: How to create bigger programming systems in teams (in class). 
+Languages/Platforms I am interested in learning in the future: Python, and game engines like Godot, Unreal Engine, Unity.
+
+Projects: Throughout the course of my current classes, I am hoping to have a presentable programming-system project at the end!
